@@ -1,18 +1,18 @@
 {
-  "version": "0.1.4",
-  "notes": "MarkNote 0.1.4",
-  "pub_date": "2026-09-10T02:47:14.621Z",
+  "version": "0.1.5",
+  "notes": "MarkNote 0.1.5",
+  "pub_date": "2026-09-10T03:24:01.906Z",
   "mandatory": false,
   "rolloutPct": 100,
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMXBqSmIwQThzS2doeDVhdG9IRkNaQUxIRG5XcXFadVVlVFdUclpNcXhGbWRtVDhwOUV4WU1SbllsSDN1NFhPTndTV1pJWWxMMzM4cUJOeElyakgwSndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDA4NDMwCWZpbGU6TWFya05vdGUuYXBwLnRhci5negpULzhlOGdDN3hXMnZOeU9mMEI3VkFVNmtMa1dqSC9xSUdTZlg0QjVmSldXOFFhdy9MQjBNRkpBZXF0MlNYcktnbG11UlVLUUhTYjdxc3h5ejdtVWpDQT09Cg==",
-      "url": "https://springwarm.github.io/marknote-updates/packages/MarkNote-0.1.4-darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMXVZTVNHZDhkRGYzWTI2YnBkYXFoaWdEcmNPLy9XWHBOSkFQVzR5SjFhNHhTSXBOdmN1aHhhbHJBQXAvR2ZGWFRzY3BGS20ycEZUc29hQzNmSk8wVEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDEwNjM0CWZpbGU6TWFya05vdGUuYXBwLnRhci5negpLdHVZNGQvVlhUZTVJT0lOOGYremlYa05BOUk3VVJ4R0FkT2pyb0p0KzdiWm5wNnBMdDVEY3JsbkVLWmphbEJubkhNa2hDUVhHYmFIL2gwT3RnY3BEdz09Cg==",
+      "url": "https://springwarm.github.io/marknote-updates/packages/MarkNote-0.1.5-darwin-aarch64.app.tar.gz"
     }
   },
   "downloads": {
     "darwin-aarch64": {
-      "url": "https://springwarm.github.io/marknote-updates/packages/MarkNote-0.1.4-darwin-aarch64.dmg",
+      "url": "https://springwarm.github.io/marknote-updates/packages/MarkNote-0.1.5-darwin-aarch64.dmg",
       "label": "macOS (Apple Silicon)",
       "format": "dmg"
     }
