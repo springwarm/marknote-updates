@@ -1,18 +1,18 @@
 {
-  "version": "0.1.37",
-  "notes": "MarkNote 0.1.37",
-  "pub_date": "2026-09-11T16:16:58.876Z",
+  "version": "0.1.38",
+  "notes": "MarkNote 0.1.38: encrypted AI conversation sync (OI-15).",
+  "pub_date": "2026-09-11T16:59:06.688Z",
   "mandatory": false,
   "rolloutPct": 100,
   "platforms": {
     "android-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMWw0RzZTSldUS2VJVjlZNjBxSzBwVUtmdEdrdHlsSVNXQ1JHWXJiQ21Nakx6ajhLM3JsdlQ1emZLUHJINHJwM2hOTi9GUk1rRm43UzhxL09vUkN4RFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTQzMjI2CWZpbGU6TWFya05vdGUtMC4xLjM3LWFuZHJvaWQtdW5pdmVyc2FsLmFwawpLbEhvOUQwQkdvQzNXM2RJMjlDMnppSWkzUE9GOHBZT2l3V3dQbXNjd3pKQUtCYkRQUUMwajZ0VEp3cTdWbG9MY0xBSDZNL3pmbkdVSmJnN1BHc0xCUT09Cg==",
-      "url": "https://springwarm.github.io/marknote-updates/packages/MarkNote-0.1.37-android-universal.apk"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMXZDNHB0Qm9sNmpCTDFGRWpBc0JkelZFVFZRdEwxN1lac0UzL2tYS2R5bFFqSThXRnF4R1VQRWtGd3pHZVdIQnBWS1FzOGFGUGtuOGVwa25sVk40ckFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTQ1NTE2CWZpbGU6TWFya05vdGUtMC4xLjM4LWFuZHJvaWQtdW5pdmVyc2FsLmFwawpHQzhMVUNvamd6SEREbkc2T1UyYXFscHZpMlozYXJCZytvQzl2ZEs2eUZMeTZaVUhiYXZGT29MNmtxUXJTUU02bW10UHUrM0pXQ1pHUFd0QkhRamJDZz09Cg==",
+      "url": "https://springwarm.github.io/marknote-updates/packages/MarkNote-0.1.38-android-universal.apk"
     }
   },
   "downloads": {
     "android-universal": {
-      "url": "https://springwarm.github.io/marknote-updates/packages/MarkNote-0.1.37-android-universal.apk",
+      "url": "https://springwarm.github.io/marknote-updates/packages/MarkNote-0.1.38-android-universal.apk",
       "label": "Android",
       "format": "apk"
     }
