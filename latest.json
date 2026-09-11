@@ -1,18 +1,18 @@
 {
-  "version": "0.1.38",
-  "notes": "MarkNote 0.1.38: encrypted AI conversation sync (OI-15).",
-  "pub_date": "2026-09-11T16:59:06.688Z",
+  "version": "0.1.39",
+  "notes": "MarkNote 0.1.39: fix Android OTA minisign verify (FR-UPDATE-07).",
+  "pub_date": "2026-09-11T17:56:57.279Z",
   "mandatory": false,
   "rolloutPct": 100,
   "platforms": {
     "android-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMXZDNHB0Qm9sNmpCTDFGRWpBc0JkelZFVFZRdEwxN1lac0UzL2tYS2R5bFFqSThXRnF4R1VQRWtGd3pHZVdIQnBWS1FzOGFGUGtuOGVwa25sVk40ckFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTQ1NTE2CWZpbGU6TWFya05vdGUtMC4xLjM4LWFuZHJvaWQtdW5pdmVyc2FsLmFwawpHQzhMVUNvamd6SEREbkc2T1UyYXFscHZpMlozYXJCZytvQzl2ZEs2eUZMeTZaVUhiYXZGT29MNmtxUXJTUU02bW10UHUrM0pXQ1pHUFd0QkhRamJDZz09Cg==",
-      "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.38/MarkNote-0.1.38-android-universal.apk"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMW1pR0RDWFRORlNwajUremtGWUJyZlRqbGwxbXppSTRML0tiTi9Ka0pVM0FsK1FvemY5amxPdlZPcmNuNkZ0RHdZTjdoSk9VOWZUZlpjNDZOT0dkMFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTQ5NDE3CWZpbGU6TWFya05vdGUtMC4xLjM5LWFuZHJvaWQtdW5pdmVyc2FsLmFwawpjZEdDalU1b1FQQWQzQmIvVjlxZy9rUGVVZ1dGT0k0QmhEVlE1K3MvMCtJSEI1aFYwU0hoMUZxWkg2cUg1UDZUTkJKdXkvUjVPUGhQb1JydFg4Ym1Cdz09Cg==",
+      "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.39/MarkNote-0.1.39-android-universal.apk"
     }
   },
   "downloads": {
     "android-universal": {
-      "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.38/MarkNote-0.1.38-android-universal.apk",
+      "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.39/MarkNote-0.1.39-android-universal.apk",
       "label": "Android",
       "format": "apk"
     }
