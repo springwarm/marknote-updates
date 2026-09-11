@@ -1,12 +1,12 @@
 {
   "version": "0.1.35",
   "notes": "MarkNote 0.1.35",
-  "pub_date": "2026-09-11T11:03:41.352Z",
+  "pub_date": "2026-09-11T11:50:21.844Z",
   "mandatory": false,
   "rolloutPct": 100,
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMW00VngyY1pSNzl3NzcrcHdDZFQ0SnlCczloYjdVUDE0Rjl4YWhMZFBKU2pkR3JmemQzT3JqemxhTE82M3V3L1c3cXdJcmwwY0JLZ21BSWg0RGdSQXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTI0NjEzCWZpbGU6TWFya05vdGUuYXBwLnRhci5negpXeXZzSUdQaXlSZEw0NGxPM0NCRE9nNE9aS0JpY1VBNDZmcW90S0VyYXFhSjJ0RXViQ2lUYmJUdDQvUmIwd0gvQm5YK2RTZWE1cDNjRXlIRjVPcEVCUT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMW9WVHU1VytGV2hMMXZ5cXQrMldTY3ZtdUlTeEdvQlB2Z1YzQUJGZzArWlRHdzE5blpIa29GcVRTaTc0T2E4V3A5Vzk2UXVBNjVrdmtLc3FmKzhUbWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTI3NDA4CWZpbGU6TWFya05vdGUuYXBwLnRhci5nego0V3RiTWJjRG9mbXZIdHZYMGhDaXNvTzJxZXltcWZxRWg4YXBZbnV2dytxWTh3d3ZuYzlVT1N2WmF0dnpIcWg3SWVaZWltZExWdmNKUXVlN0NTUVhEUT09Cg==",
       "url": "https://springwarm.github.io/marknote-updates/packages/MarkNote-0.1.35-darwin-aarch64.app.tar.gz"
     }
   },
