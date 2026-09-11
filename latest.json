@@ -1,29 +1,20 @@
 {
-  "version": "0.1.5",
-  "notes": "MarkNote 0.1.5",
-  "pub_date": "2026-09-10T03:42:28.717Z",
+  "version": "0.1.35",
+  "notes": "MarkNote 0.1.35",
+  "pub_date": "2026-09-11T11:03:41.352Z",
   "mandatory": false,
   "rolloutPct": 100,
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMXVZTVNHZDhkRGYzWTI2YnBkYXFoaWdEcmNPLy9XWHBOSkFQVzR5SjFhNHhTSXBOdmN1aHhhbHJBQXAvR2ZGWFRzY3BGS20ycEZUc29hQzNmSk8wVEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDEwNjM0CWZpbGU6TWFya05vdGUuYXBwLnRhci5negpLdHVZNGQvVlhUZTVJT0lOOGYremlYa05BOUk3VVJ4R0FkT2pyb0p0KzdiWm5wNnBMdDVEY3JsbkVLWmphbEJubkhNa2hDUVhHYmFIL2gwT3RnY3BEdz09Cg==",
-      "url": "https://springwarm.github.io/marknote-updates/packages/MarkNote-0.1.5-darwin-aarch64.app.tar.gz"
-    },
-    "android-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMWhORmo4dVZiS01HZVFXVjRsQmdzOE5nb3pKVGdRTEhyWU4xbHJPY0NhY3JzU2dsNkdKeFFOSEF1V1RiQmtpbzh0b0ViS1dEZFNEVVlkMzk2V3dNeGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDExNzQzCWZpbGU6YXBwLXVuaXZlcnNhbC1yZWxlYXNlLmFwawpuZEVvMHFyZGw5ZFRqVkNvdnBaWGhoQ2lhSU9qazJjeXV6eHArV2tSeFNXMmxGYVNubGdwRERnOHoxK0dKbml5ZDh1ZWxmR3pSVThOMXhndXo2MS9Cdz09Cg==",
-      "url": "https://springwarm.github.io/marknote-updates/packages/MarkNote-0.1.5-android-universal.apk"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMW00VngyY1pSNzl3NzcrcHdDZFQ0SnlCczloYjdVUDE0Rjl4YWhMZFBKU2pkR3JmemQzT3JqemxhTE82M3V3L1c3cXdJcmwwY0JLZ21BSWg0RGdSQXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTI0NjEzCWZpbGU6TWFya05vdGUuYXBwLnRhci5negpXeXZzSUdQaXlSZEw0NGxPM0NCRE9nNE9aS0JpY1VBNDZmcW90S0VyYXFhSjJ0RXViQ2lUYmJUdDQvUmIwd0gvQm5YK2RTZWE1cDNjRXlIRjVPcEVCUT09Cg==",
+      "url": "https://springwarm.github.io/marknote-updates/packages/MarkNote-0.1.35-darwin-aarch64.app.tar.gz"
     }
   },
   "downloads": {
     "darwin-aarch64": {
-      "url": "https://springwarm.github.io/marknote-updates/packages/MarkNote-0.1.5-darwin-aarch64.dmg",
+      "url": "https://springwarm.github.io/marknote-updates/packages/MarkNote-0.1.35-darwin-aarch64.dmg",
       "label": "macOS (Apple Silicon)",
       "format": "dmg"
-    },
-    "android-universal": {
-      "url": "https://springwarm.github.io/marknote-updates/packages/MarkNote-0.1.5-android-universal.apk",
-      "label": "Android",
-      "format": "apk"
     }
   }
 }
