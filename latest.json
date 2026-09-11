@@ -1,18 +1,18 @@
 {
-  "version": "0.1.36",
-  "notes": "MarkNote 0.1.36",
-  "pub_date": "2026-09-11T15:06:39.366Z",
+  "version": "0.1.37",
+  "notes": "MarkNote 0.1.37",
+  "pub_date": "2026-09-11T16:16:58.876Z",
   "mandatory": false,
   "rolloutPct": 100,
   "platforms": {
     "android-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMXFKcXlaUnA1MStXLzRGOXQ5QVlvRjVSc211bGhMcWR1b0x3MVZZRFdPcm9NOW82RnpYd3R6ZXJpS2JrRUtlSTQ5UkRUdjV6U0t3S3Noazg2akFPZ2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTM4NzA4CWZpbGU6TWFya05vdGUtMC4xLjM2LWFuZHJvaWQtdW5pdmVyc2FsLmFwawpuVlE4OFF1NWk2TzR3ekNDV1QrS0Q5MjdnLzNsWHhzeEFZdmVBYXZNVjNtVVk5VlhZdzNvY2gzd3RUYndtd240WnJ6NzBKeUUwQTdyT3JicWRVY3lCZz09Cg==",
-      "url": "https://springwarm.github.io/marknote-updates/packages/MarkNote-0.1.36-android-universal.apk"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMWw0RzZTSldUS2VJVjlZNjBxSzBwVUtmdEdrdHlsSVNXQ1JHWXJiQ21Nakx6ajhLM3JsdlQ1emZLUHJINHJwM2hOTi9GUk1rRm43UzhxL09vUkN4RFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTQzMjI2CWZpbGU6TWFya05vdGUtMC4xLjM3LWFuZHJvaWQtdW5pdmVyc2FsLmFwawpLbEhvOUQwQkdvQzNXM2RJMjlDMnppSWkzUE9GOHBZT2l3V3dQbXNjd3pKQUtCYkRQUUMwajZ0VEp3cTdWbG9MY0xBSDZNL3pmbkdVSmJnN1BHc0xCUT09Cg==",
+      "url": "https://springwarm.github.io/marknote-updates/packages/MarkNote-0.1.37-android-universal.apk"
     }
   },
   "downloads": {
     "android-universal": {
-      "url": "https://springwarm.github.io/marknote-updates/packages/MarkNote-0.1.36-android-universal.apk",
+      "url": "https://springwarm.github.io/marknote-updates/packages/MarkNote-0.1.37-android-universal.apk",
       "label": "Android",
       "format": "apk"
     }
