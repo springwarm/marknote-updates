@@ -1,18 +1,18 @@
 {
-  "version": "0.1.39",
-  "notes": "MarkNote 0.1.39: fix Android OTA minisign verify (FR-UPDATE-07).",
-  "pub_date": "2026-09-11T17:56:57.279Z",
+  "version": "0.1.40",
+  "notes": "MarkNote 0.1.40: Android note-retrieval embed library (F-46), conflict compare, desktop native menus.",
+  "pub_date": "2026-09-14T02:05:23.534Z",
   "mandatory": false,
   "rolloutPct": 100,
   "platforms": {
     "android-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMW1pR0RDWFRORlNwajUremtGWUJyZlRqbGwxbXppSTRML0tiTi9Ka0pVM0FsK1FvemY5amxPdlZPcmNuNkZ0RHdZTjdoSk9VOWZUZlpjNDZOT0dkMFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTQ5NDE3CWZpbGU6TWFya05vdGUtMC4xLjM5LWFuZHJvaWQtdW5pdmVyc2FsLmFwawpjZEdDalU1b1FQQWQzQmIvVjlxZy9rUGVVZ1dGT0k0QmhEVlE1K3MvMCtJSEI1aFYwU0hoMUZxWkg2cUg1UDZUTkJKdXkvUjVPUGhQb1JydFg4Ym1Cdz09Cg==",
-      "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.39/MarkNote-0.1.39-android-universal.apk"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMXM5M0JQellNbnhTOFZ0dUp1S1A1TmlqaE45OWNqMDlBejd0NkFkWm1XZ2hiTkczWXF1d0p2cEI3S3FBV2Mvck5vZzJPSkp5aW9Dd1FQVytURHZNQ2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MzUxNDE0CWZpbGU6TWFya05vdGUtMC4xLjQwLWFuZHJvaWQtdW5pdmVyc2FsLmFwawp6aldNaU9kcUhpbjZGcFVhUCtqa1hWQlBGeXRacEhkT1RPNTJONDNXU1IxdUZSclRwRFhzQmx6YnY4enExbHMxdmRvaldkSWFvSkRGTGlEQTUrbFVBQT09Cg==",
+      "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.40/MarkNote-0.1.40-android-universal.apk"
     }
   },
   "downloads": {
     "android-universal": {
-      "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.39/MarkNote-0.1.39-android-universal.apk",
+      "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.40/MarkNote-0.1.40-android-universal.apk",
       "label": "Android",
       "format": "apk"
     }
