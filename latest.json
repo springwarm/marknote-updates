@@ -1,18 +1,18 @@
 {
-  "version": "0.1.41",
-  "notes": "MarkNote 0.1.41: wiki activity timeline (PD-WIKI-08).",
-  "pub_date": "2026-09-14T03:43:44.290Z",
+  "version": "0.1.43",
+  "notes": "MarkNote 0.1.43: same-body metadata auto-merge (FR-SYNC-04 AC-17).",
+  "pub_date": "2026-09-15T03:53:42.922Z",
   "mandatory": false,
   "rolloutPct": 100,
   "platforms": {
     "android-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMW5IS3BhbFpZZXhwTFNSRTJDd3ZNZVo3cjBVbnRwSnl4bVdOU0E1QmhYQVVJRHk2aXhhUlF5bVBueklRM2FvMWNrOWEvN0hjVlpTbVJQZGp3aEtuRUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MzU3MjcyCWZpbGU6TWFya05vdGUtMC4xLjQxLWFuZHJvaWQtdW5pdmVyc2FsLmFwawp0Z045Z0NkbzQ3c3JZVGpiaGtua0FJNHBmdFBrcjhLdDBtekFUZkRDN3RtMFlLWVl6UWZnZVE0T1RCSUhEOUhoTzFlQ08rc282V2ROeE5GVFlsLy9DQT09Cg==",
-      "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.41/MarkNote-0.1.41-android-universal.apk"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMXBLd2ZSei9YalBna3FLSHVUSFRyYk9LaHdodkRqSUpnZVBiR0o0TnVRaVJWSTltTEtxaFhZb3VRVjdRWFNCbjMvcEU2QVRBSWFIQjBYaGR2MEVlOFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDQ0NDIyCWZpbGU6TWFya05vdGUtMC4xLjQzLWFuZHJvaWQtdW5pdmVyc2FsLmFwawpuY09HM3RPcE1SYmpjZ3lhRitrcmhVQStqR2lwMDdmZFdBWDRoSy9pb2lrMlNWUTNnVTFIOUE4Qm9QaU5qRkcwdlRESzFCNCtVZFpQRG1xLytqTzRDdz09Cg==",
+      "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.43/MarkNote-0.1.43-android-universal.apk"
     }
   },
   "downloads": {
     "android-universal": {
-      "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.41/MarkNote-0.1.41-android-universal.apk",
+      "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.43/MarkNote-0.1.43-android-universal.apk",
       "label": "Android",
       "format": "apk"
     }
