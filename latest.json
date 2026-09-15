@@ -1,7 +1,7 @@
 {
   "version": "0.1.46",
   "notes": "v0.1.46 secret paste UX; name-only chrome; note links and vision",
-  "pub_date": "2026-09-15T16:10:25.432Z",
+  "pub_date": "2026-09-15T16:14:06.632Z",
   "mandatory": false,
   "rolloutPct": 100,
   "platforms": {
@@ -11,9 +11,9 @@
     }
   },
   "downloads": {
-    "darwin-aarch64": {
+    "macos": {
       "url": "https://github.com/springwarm/marknote-updates/releases/download/v0.1.46/MarkNote-0.1.46-darwin-aarch64.dmg",
-      "label": "macOS (Apple Silicon)",
+      "label": "macOS",
       "format": "dmg"
     }
   }
