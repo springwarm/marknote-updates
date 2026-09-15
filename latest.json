@@ -1,18 +1,18 @@
 {
   "version": "0.1.47",
   "notes": "v0.1.47 simplify AI key paste-and-save",
-  "pub_date": "2026-09-15T17:40:09.865Z",
+  "pub_date": "2026-09-15T17:49:47.429Z",
   "mandatory": false,
   "rolloutPct": 100,
   "platforms": {
     "android-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMXBtNllKbXFuOTZzWDhTSy9KRS8wVjh2TXNmdDJzZkpOakdGYjlLWDFkaE0zVmluN0t3cW1wRzNtVDhPaDlaWURPOU9NNVFnK0dFcURQenVIRXc3MGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDk0MDAzCWZpbGU6TWFya05vdGUtMC4xLjQ3LWFuZHJvaWQtdW5pdmVyc2FsLmFwawo2TnlqZ2QrWGRuZ1kxNTNFbno5TjM1NjNOaWpFKzcyczQ3bUhkQVRYWkhtUUdqNEZsT0U0UTVSS0htdEVpditRT3lpVitXbFZ2M3NxT3lSQU9BYUpBQT09Cg==",
-      "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.47/MarkNote-0.1.47-android-universal.apk"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMWlXeDhkVDdxbjAxTlMvdEZ0bS85MmRHdEF5dFhuQkh4U3VkZzNYNnV2S2prbGtSeEhkMUU4YVd3a2kwUXdTemFDYVBQMUN2dm9DdjIweiswUEhBT2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDk0NDQxCWZpbGU6TWFya05vdGUtMC4xLjQ3LWFuZHJvaWQtdW5pdmVyc2FsLmFwawpSMHhkQ2JVRytPcWdvbksyQ2hlN1hGYzBCb0hsSER3eGExOWMvWkpVandEQnNVYS9FK3ZlZXg4NTJ6VmJlZjJrblo3dmwrek9zNFEyNG9rbFExYk5CQT09Cg==",
+      "url": "https://github.com/springwarm/marknote-updates/releases/download/v0.1.47/MarkNote-0.1.47-android-universal.apk"
     }
   },
   "downloads": {
     "android-universal": {
-      "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.47/MarkNote-0.1.47-android-universal.apk",
+      "url": "https://github.com/springwarm/marknote-updates/releases/download/v0.1.47/MarkNote-0.1.47-android-universal.apk",
       "label": "Android",
       "format": "apk"
     }
