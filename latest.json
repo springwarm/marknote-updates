@@ -1,20 +1,20 @@
 {
   "version": "0.1.46",
   "notes": "v0.1.46 secret paste UX; name-only chrome; note links and vision",
-  "pub_date": "2026-09-15T16:07:13.079Z",
+  "pub_date": "2026-09-15T16:10:25.432Z",
   "mandatory": false,
   "rolloutPct": 100,
   "platforms": {
-    "android-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMW1IS3kxa0FTMFRWdnhkNlpPbm9Kb040TzJmdnlqeDFXWnA4Y0hLbmtmamd5N3ErNUYzTWRQNzVBQjZ4TWxLemJHclUxanRISzdUV1lMUVhTL2ZodHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDg4NDMyCWZpbGU6TWFya05vdGUtMC4xLjQ2LWFuZHJvaWQtdW5pdmVyc2FsLmFwawpTVmIxZ2FvQkdZMTRkT0RnZmhkSjg1bSswRXhhRXdiWUNib24wclJISGRIN2tvSi9vVFh0SXdvb0thK2M2ZEh6eEk3aklTUzFXbTROVXFXNjZQZUpEQT09Cg==",
-      "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.46/MarkNote-0.1.46-android-universal.apk"
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMWxHTG41TG53K0FDdnNEREZTWm5SWFlXek04YWgveHZmK1lOMHJIcGJnRTl2TzErTUdteTVXSnZiOXpVN2QzWTQ5Y1E1WXM3WEpSUWFjUFowd3ZwNmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDg4Mzk3CWZpbGU6TWFya05vdGUuYXBwLnRhci5negpSTXNSQkFvQUYvY0tvZXNscytab3JTNXFkbTFnNHdOV01rVndzdGxyVit0V3hNVGV1VmdCTlZDTE13ellhMHRZd3FSa1RGVHlhNms1R1dib3YzcHlEQT09Cg==",
+      "url": "https://github.com/springwarm/marknote-updates/releases/download/v0.1.46/MarkNote-0.1.46-darwin-aarch64.app.tar.gz"
     }
   },
   "downloads": {
-    "android-universal": {
-      "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.46/MarkNote-0.1.46-android-universal.apk",
-      "label": "Android",
-      "format": "apk"
+    "darwin-aarch64": {
+      "url": "https://github.com/springwarm/marknote-updates/releases/download/v0.1.46/MarkNote-0.1.46-darwin-aarch64.dmg",
+      "label": "macOS (Apple Silicon)",
+      "format": "dmg"
     }
   }
 }
