@@ -7,12 +7,12 @@
   "platforms": {
     "android-universal": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMWhVM1I0bHdWQkZJWThjTHB6WlpIbXZuRUtmaEtabDM2YTY0a0hyUlE3a2FkeFpOMUUzZE1lRWJFYmJYR0piQWNUZlA5V2tFa29tbkZacndtQUJ5bXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTY4ODA1CWZpbGU6TWFya05vdGUtMC4xLjUyLWFuZHJvaWQtdW5pdmVyc2FsLmFwawpLZTdrMDBJNmhvbjNCT3N6WWZjVDlES3VQcitNSkJrVXVPdDVUNkdONWRiSGRFTFdiazNwdkp0VjJrTDZtbFBaSTF2eGptVUdiVzVRdkwzSVFiMUFDQT09Cg==",
-      "url": "https://github.com/springwarm/marknote-updates/releases/download/v0.1.52/MarkNote-0.1.52-android-universal.apk"
+      "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.52/MarkNote-0.1.52-android-universal.apk"
     }
   },
   "downloads": {
     "android-universal": {
-      "url": "https://github.com/springwarm/marknote-updates/releases/download/v0.1.52/MarkNote-0.1.52-android-universal.apk",
+      "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.52/MarkNote-0.1.52-android-universal.apk",
       "label": "Android",
       "format": "apk"
     }
