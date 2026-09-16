@@ -1,13 +1,17 @@
 {
   "version": "0.1.48",
   "notes": "v0.1.48 Android update resume/redownload, sync empty-shell guard, AI starter",
-  "pub_date": "2026-09-16T02:45:43.603Z",
+  "pub_date": "2026-09-16T02:50:23.782Z",
   "mandatory": false,
   "rolloutPct": 100,
   "platforms": {
     "android-universal": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMXRJUkkvVm92aGc2cnhocXVxdk9KZGFXL2w1T3dZb2lMSWhYOFArK1l2U3pXaHN5Vk1oZEpUaWR3WUNyTWg4Q0ZXSUJ0WENQM0lTdlN3SFQxOFZ2NWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTI2NzM3CWZpbGU6TWFya05vdGUtMC4xLjQ4LWFuZHJvaWQtdW5pdmVyc2FsLmFwawpzb2ZOL1JaSkZzcFpseUVwYy9rQ2h2U1lSR0k0cFl5NGtIYUg0bmpnMHhQNTd5SXlyQmNTeHlRNmt1OXJOZjBNUFFrNXA5R044eEQ1ZVVCWHAyUVFEUT09Cg==",
       "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.48/MarkNote-0.1.48-android-universal.apk"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMWhPVEI1S29SWUUvT2lUT1hmN1RLM25iR1Q5aFlRQWxXUmRKUCtIR3ZIdi8rL1dqaU1ONkZMeHpNU1RubDdueExtck54UE9XWkQrRlpNN1lzWmJveGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTI3MDE3CWZpbGU6TWFya05vdGUuYXBwLnRhci5negp6WmtGaXZCSW1KWFdLcmZPRm54K3Y4TEZONTkrbTgrTmN0RTVFcFNpSGdpK2psNG5Gc2VoKzdzQnFWSGZTdkdSeGJ1bzVMWXZpV0hLRlA2N3RkU0VEQT09Cg==",
+      "url": "https://github.com/springwarm/marknote-updates/releases/download/v0.1.48/MarkNote-0.1.48-darwin-aarch64.app.tar.gz"
     }
   },
   "downloads": {
@@ -15,6 +19,11 @@
       "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.48/MarkNote-0.1.48-android-universal.apk",
       "label": "Android",
       "format": "apk"
+    },
+    "darwin-aarch64": {
+      "url": "https://github.com/springwarm/marknote-updates/releases/download/v0.1.48/MarkNote-0.1.48-darwin-aarch64.dmg",
+      "label": "macOS (Apple Silicon)",
+      "format": "dmg"
     }
   }
 }
