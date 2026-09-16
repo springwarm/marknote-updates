@@ -1,18 +1,18 @@
 {
-  "version": "0.1.51",
-  "notes": "v0.1.51 mobile category chrome, API key banner refresh, dialog overflow",
-  "pub_date": "2026-09-16T12:54:25.391Z",
+  "version": "0.1.52",
+  "notes": "v0.1.52 Android bottom inset so tab bar clears gesture nav",
+  "pub_date": "2026-09-16T14:26:51.320Z",
   "mandatory": false,
   "rolloutPct": 100,
   "platforms": {
     "android-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMWlRQnJXNWFDeWxGY24vSHhoMVQ4WHFuTjB0bGtPdzYzdHpHT1Npai9DWXNwaXBJMjJaMis3N21hMGhDWHRKRDMvbUU0MDhPbUVWK3h2VHh0VnlSTVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTYzMjU5CWZpbGU6TWFya05vdGUtMC4xLjUxLWFuZHJvaWQtdW5pdmVyc2FsLmFwawpFMWc3Ykh3MWlEcEtraWdJWWY3akFTT0lVc0lNMmdlc0phbHJTemNVVHV2allqb0xuVXQ2K2docWJFcDgrZ1BJN3FMU3lqZDBqemFaYzRjTmdyeEhEUT09Cg==",
-      "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.51/MarkNote-0.1.51-android-universal.apk"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMWhVM1I0bHdWQkZJWThjTHB6WlpIbXZuRUtmaEtabDM2YTY0a0hyUlE3a2FkeFpOMUUzZE1lRWJFYmJYR0piQWNUZlA5V2tFa29tbkZacndtQUJ5bXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTY4ODA1CWZpbGU6TWFya05vdGUtMC4xLjUyLWFuZHJvaWQtdW5pdmVyc2FsLmFwawpLZTdrMDBJNmhvbjNCT3N6WWZjVDlES3VQcitNSkJrVXVPdDVUNkdONWRiSGRFTFdiazNwdkp0VjJrTDZtbFBaSTF2eGptVUdiVzVRdkwzSVFiMUFDQT09Cg==",
+      "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.52/MarkNote-0.1.52-android-universal.apk"
     }
   },
   "downloads": {
     "android-universal": {
-      "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.51/MarkNote-0.1.51-android-universal.apk",
+      "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.52/MarkNote-0.1.52-android-universal.apk",
       "label": "Android",
       "format": "apk"
     }
