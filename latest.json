@@ -1,18 +1,18 @@
 {
-  "version": "0.1.47",
-  "notes": "v0.1.47 simplify AI key paste-and-save",
-  "pub_date": "2026-09-15T17:49:47.429Z",
+  "version": "0.1.48",
+  "notes": "v0.1.48 Android update resume/redownload, sync empty-shell guard, AI starter",
+  "pub_date": "2026-09-16T02:45:43.603Z",
   "mandatory": false,
   "rolloutPct": 100,
   "platforms": {
     "android-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMWlXeDhkVDdxbjAxTlMvdEZ0bS85MmRHdEF5dFhuQkh4U3VkZzNYNnV2S2prbGtSeEhkMUU4YVd3a2kwUXdTemFDYVBQMUN2dm9DdjIweiswUEhBT2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDk0NDQxCWZpbGU6TWFya05vdGUtMC4xLjQ3LWFuZHJvaWQtdW5pdmVyc2FsLmFwawpSMHhkQ2JVRytPcWdvbksyQ2hlN1hGYzBCb0hsSER3eGExOWMvWkpVandEQnNVYS9FK3ZlZXg4NTJ6VmJlZjJrblo3dmwrek9zNFEyNG9rbFExYk5CQT09Cg==",
-      "url": "https://github.com/springwarm/marknote-updates/releases/download/v0.1.47/MarkNote-0.1.47-android-universal.apk"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMXRJUkkvVm92aGc2cnhocXVxdk9KZGFXL2w1T3dZb2lMSWhYOFArK1l2U3pXaHN5Vk1oZEpUaWR3WUNyTWg4Q0ZXSUJ0WENQM0lTdlN3SFQxOFZ2NWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTI2NzM3CWZpbGU6TWFya05vdGUtMC4xLjQ4LWFuZHJvaWQtdW5pdmVyc2FsLmFwawpzb2ZOL1JaSkZzcFpseUVwYy9rQ2h2U1lSR0k0cFl5NGtIYUg0bmpnMHhQNTd5SXlyQmNTeHlRNmt1OXJOZjBNUFFrNXA5R044eEQ1ZVVCWHAyUVFEUT09Cg==",
+      "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.48/MarkNote-0.1.48-android-universal.apk"
     }
   },
   "downloads": {
     "android-universal": {
-      "url": "https://github.com/springwarm/marknote-updates/releases/download/v0.1.47/MarkNote-0.1.47-android-universal.apk",
+      "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.48/MarkNote-0.1.48-android-universal.apk",
       "label": "Android",
       "format": "apk"
     }
