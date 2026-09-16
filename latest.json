@@ -1,18 +1,18 @@
 {
-  "version": "0.1.52",
-  "notes": "v0.1.52 Android bottom inset so tab bar clears gesture nav",
-  "pub_date": "2026-09-16T14:26:51.320Z",
+  "version": "0.1.53",
+  "notes": "Mermaid error hygiene; chat overflow fix; Gitee mirror retries.",
+  "pub_date": "2026-09-16T17:50:45.598Z",
   "mandatory": false,
   "rolloutPct": 100,
   "platforms": {
     "android-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMWhVM1I0bHdWQkZJWThjTHB6WlpIbXZuRUtmaEtabDM2YTY0a0hyUlE3a2FkeFpOMUUzZE1lRWJFYmJYR0piQWNUZlA5V2tFa29tbkZacndtQUJ5bXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTY4ODA1CWZpbGU6TWFya05vdGUtMC4xLjUyLWFuZHJvaWQtdW5pdmVyc2FsLmFwawpLZTdrMDBJNmhvbjNCT3N6WWZjVDlES3VQcitNSkJrVXVPdDVUNkdONWRiSGRFTFdiazNwdkp0VjJrTDZtbFBaSTF2eGptVUdiVzVRdkwzSVFiMUFDQT09Cg==",
-      "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.52/MarkNote-0.1.52-android-universal.apk"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMWxPelB3Tk1BR3U3ejRKZTVDMXFXYVZ2QTk3TkdaRy9PZkcwOHFIOGQwMkNPSVdqamsrWWJYVXgyQ3hlSmhkUU5WZDVvOGpNNEdLbld3K3BrYzFZVHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTgxMDM4CWZpbGU6TWFya05vdGUtMC4xLjUzLWFuZHJvaWQtdW5pdmVyc2FsLmFwaworWjQvMWVlYkpkbHBySVVFM0dPY2dXTXVLbDRYVm9DTU5zUFlVYkRjTTlibTRQZ3hrM2JFTWNpRE5PZFlPSk12L3YzeXh3NmRrK0wveWJSZU9FWXZDdz09Cg==",
+      "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.53/MarkNote-0.1.53-android-universal.apk"
     }
   },
   "downloads": {
     "android-universal": {
-      "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.52/MarkNote-0.1.52-android-universal.apk",
+      "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.53/MarkNote-0.1.53-android-universal.apk",
       "label": "Android",
       "format": "apk"
     }
