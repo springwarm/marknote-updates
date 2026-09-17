@@ -1,18 +1,18 @@
 {
-  "version": "0.1.57",
-  "notes": "Android: keep APK partials when Gitee ignores Range; prefer GitHub 206 resume; browser download via Intent + visible CTA (FR-UPD-05 AC-06).",
-  "pub_date": "2026-09-17T09:31:20.937Z",
+  "version": "0.1.58",
+  "notes": "Android: reopen cancelled steward note create; fix confirm peek right-shift with wide mermaid",
+  "pub_date": "2026-09-17T09:59:04.427Z",
   "mandatory": false,
   "rolloutPct": 100,
   "platforms": {
     "android-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMWxSbHVJY1MxT3FraVFHT0FxQyt5dmNZKzNJVXdZSzZtZVRZOGtUdEV1S0JSUGZHVFdGSU4rM09INiszcXVSL1lSWFlOcnpRQzNPandnemRpemhSS3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjM3NDc1CWZpbGU6TWFya05vdGUtMC4xLjU3LWFuZHJvaWQtdW5pdmVyc2FsLmFwawp6SVRoVmVuSXV1bSsxUlVjQ0pLajNiaFZ6UmlNd2ROdGdxOTRCUlhLRmt2UXpwOE1MNHNhcDJnb1dSWi9tMnEzNWltS0lrNlhKdmk2QzdQbGVvNU9CZz09Cg==",
-      "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.57/MarkNote-0.1.57-android-universal.apk"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMXZDOEhKZC8wSmVnMlNrUTM3ZFMxRFQ4SWorVDNoU3gyUkFMSlZ6NHk2QjQ0NVRlM3YrNm9BYWhETXZHelZUOXVXU2t2QU15SFpjb1NhMG1uMEZTSmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjM5MTM4CWZpbGU6TWFya05vdGUtMC4xLjU4LWFuZHJvaWQtdW5pdmVyc2FsLmFwawpQZDc1WkE1VnNYT3hZQU1YeWdlLzNLWEhqVm5PRHlVWlV3bStienVQSitxY0tFcE4xRjBWVk5YUlpFSXBJMXNwak9rc3czL2FEQ2F4Ylg5MGNyaFVCQT09Cg==",
+      "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.58/MarkNote-0.1.58-android-universal.apk"
     }
   },
   "downloads": {
     "android-universal": {
-      "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.57/MarkNote-0.1.57-android-universal.apk",
+      "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.58/MarkNote-0.1.58-android-universal.apk",
       "label": "Android",
       "format": "apk"
     }
