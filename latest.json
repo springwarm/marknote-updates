@@ -1,18 +1,18 @@
 {
-  "version": "0.1.53",
-  "notes": "Mermaid error hygiene; chat overflow fix; Gitee mirror retries.",
-  "pub_date": "2026-09-16T17:50:45.598Z",
+  "version": "0.1.54",
+  "notes": "Android: paste images via clipboard items; update download retries + GitHub Release fallback.",
+  "pub_date": "2026-09-17T03:42:52.138Z",
   "mandatory": false,
   "rolloutPct": 100,
   "platforms": {
     "android-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMWxPelB3Tk1BR3U3ejRKZTVDMXFXYVZ2QTk3TkdaRy9PZkcwOHFIOGQwMkNPSVdqamsrWWJYVXgyQ3hlSmhkUU5WZDVvOGpNNEdLbld3K3BrYzFZVHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTgxMDM4CWZpbGU6TWFya05vdGUtMC4xLjUzLWFuZHJvaWQtdW5pdmVyc2FsLmFwaworWjQvMWVlYkpkbHBySVVFM0dPY2dXTXVLbDRYVm9DTU5zUFlVYkRjTTlibTRQZ3hrM2JFTWNpRE5PZFlPSk12L3YzeXh3NmRrK0wveWJSZU9FWXZDdz09Cg==",
-      "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.53/MarkNote-0.1.53-android-universal.apk"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMW04SDJwUE1uNmdEZTJVeENpb1VCcStBdkpKOEpsYTBGWnVmUXd3TzRXS2JlcGpnTDB3VjRmbG5idkhEWmxRcGxPcVhZSFJnZnlBY1lKcGkxQmFHREFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjE2NTY1CWZpbGU6TWFya05vdGUtMC4xLjU0LWFuZHJvaWQtdW5pdmVyc2FsLmFwawpzc2s4dmRieEZqMCszT1hxOUV3UVNZbXdMZmtWYSthQWJqWEJZRW0yZTZQV0dQeVNhK2h1amI1dFVkb1J4K2tYTXJNSmpjTkprZFUvNmljZEJ0YkJDQT09Cg==",
+      "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.54/MarkNote-0.1.54-android-universal.apk"
     }
   },
   "downloads": {
     "android-universal": {
-      "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.53/MarkNote-0.1.53-android-universal.apk",
+      "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.54/MarkNote-0.1.54-android-universal.apk",
       "label": "Android",
       "format": "apk"
     }
