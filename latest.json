@@ -1,18 +1,18 @@
 {
-  "version": "0.1.56",
-  "notes": "Android: fix AI composer/bubble horizontal overflow on narrow screens (FR-AI-15 AC-09).",
-  "pub_date": "2026-09-17T09:01:31.765Z",
+  "version": "0.1.57",
+  "notes": "Android: keep APK partials when Gitee ignores Range; prefer GitHub 206 resume; browser download via Intent + visible CTA (FR-UPD-05 AC-06).",
+  "pub_date": "2026-09-17T09:31:20.937Z",
   "mandatory": false,
   "rolloutPct": 100,
   "platforms": {
     "android-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMWwyOXVvUlV4VGpJMjB1V3gxclZ1UGQ1bDg2UDc0ZHNsd1ptWFl5TTRyODBPc0hJdUxzMGl2ak1GblFhclo4SUZzR3lnTUQ1cTlGRWw5c0p0WkZQVFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjM1Njg1CWZpbGU6TWFya05vdGUtMC4xLjU2LWFuZHJvaWQtdW5pdmVyc2FsLmFwawpnWmQzZjg2T1dZYnVibWIxblN5amM4b05qWGJKcS9ld0M1aTJGTUxBdTV3V2ZlWkxsNkc3Yk1jQ1lKV2ZyNEVjUld1YTdRY2VXdkE4Y0tSSzdGU1ZDQT09Cg==",
-      "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.56/MarkNote-0.1.56-android-universal.apk"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMWxSbHVJY1MxT3FraVFHT0FxQyt5dmNZKzNJVXdZSzZtZVRZOGtUdEV1S0JSUGZHVFdGSU4rM09INiszcXVSL1lSWFlOcnpRQzNPandnemRpemhSS3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjM3NDc1CWZpbGU6TWFya05vdGUtMC4xLjU3LWFuZHJvaWQtdW5pdmVyc2FsLmFwawp6SVRoVmVuSXV1bSsxUlVjQ0pLajNiaFZ6UmlNd2ROdGdxOTRCUlhLRmt2UXpwOE1MNHNhcDJnb1dSWi9tMnEzNWltS0lrNlhKdmk2QzdQbGVvNU9CZz09Cg==",
+      "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.57/MarkNote-0.1.57-android-universal.apk"
     }
   },
   "downloads": {
     "android-universal": {
-      "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.56/MarkNote-0.1.56-android-universal.apk",
+      "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.57/MarkNote-0.1.57-android-universal.apk",
       "label": "Android",
       "format": "apk"
     }
