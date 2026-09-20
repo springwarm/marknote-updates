@@ -1,13 +1,17 @@
 {
   "version": "0.1.60",
   "notes": "v0.1.60 secondary button affordance and MCP clipboard paste",
-  "pub_date": "2026-09-20T15:17:59.303Z",
+  "pub_date": "2026-09-20T15:18:32.166Z",
   "mandatory": false,
   "rolloutPct": 100,
   "platforms": {
     "android-universal": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMWdsdXNvRjl1K3diaWs3UFNmQm5kSmdDdDFKYXNMZmJqMSt3aGR2NlYyTURubmk0MGZSTkhUcmY5eVdhS2JjdjFBVzhlbVhCdFBXTHp1VmxPeU90dHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTE3NDc4CWZpbGU6TWFya05vdGUtMC4xLjYwLWFuZHJvaWQtdW5pdmVyc2FsLmFwawpCR0k5VDA5RUdXVTRKRnNRc3JJZnpZOTM0TlFIdHFjdTdFd1djQi9rWGxoNW1CQWhodWRYR0NoUEY2d2FZdk9xSng4bFFUUVpzNHNJYXBrS1IxTmxEQT09Cg==",
       "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.60/MarkNote-0.1.60-android-universal.apk"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMW92R0xDdWU4bVg3ajh2MmFVa0FScTVEcWdsTnFqYVBtazQ3ZitFZVQ0V3EzZ2ZIaHdTQWU0MjZtRUwyZEtEMFl3NmhYb0ZmenQ1akhDa29LS0NRYUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTE3NTExCWZpbGU6TWFya05vdGUuYXBwLnRhci5negpRR0I0dDBrR21ST0tzUnhGYWdDbFFYS1ZjRkhNTzd4RnZVNmJ1THUwaGpPdXduTGVZanpJWmFsRjJxaktpdXFQN0ZPNDVsQWdxV2tOQ1FFNi95ZXlCdz09Cg==",
+      "url": "https://github.com/springwarm/marknote-updates/releases/download/v0.1.60/MarkNote-0.1.60-darwin-aarch64.app.tar.gz"
     }
   },
   "downloads": {
@@ -15,6 +19,11 @@
       "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.60/MarkNote-0.1.60-android-universal.apk",
       "label": "Android",
       "format": "apk"
+    },
+    "darwin-aarch64": {
+      "url": "https://github.com/springwarm/marknote-updates/releases/download/v0.1.60/MarkNote-0.1.60-darwin-aarch64.dmg",
+      "label": "macOS (Apple Silicon)",
+      "format": "dmg"
     }
   }
 }
