@@ -1,13 +1,17 @@
 {
   "version": "0.1.64",
   "notes": "改进手机打开网页与剪藏；更新说明改为白话，可长按复制。",
-  "pub_date": "2026-09-23T08:10:41.602Z",
+  "pub_date": "2026-09-23T08:16:12.403Z",
   "mandatory": false,
   "rolloutPct": 100,
   "platforms": {
     "android-universal": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMWs1a0RBRk1sOFhEZ3pYMEw3QXhnc0g2Yk5ERzkxb0dLNmZmTGNXYkJ2VjZVRVRIaFFOclp2d0kxVEErYkN5Tk9iU3Z5KzJmTkdodlptWFNTSktxTlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTUxMDM1CWZpbGU6TWFya05vdGUtMC4xLjY0LWFuZHJvaWQtdW5pdmVyc2FsLmFwawp1a081bTVyTk52czFwelhEK0Z2STlEZWY2RDM5OWZ2OWtRMU1kOHkydG8rQ1RFZFhtcE9VUlBWUGJUQzBiekVONFFhOFdSdUZDckQ2N3dYenBHVzFCQT09Cg==",
       "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.64/MarkNote-0.1.64-android-universal.apk"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMW9rc2hCajZ6Ny9BbS92dHRkMDBiMFRpVGp2cmtKZi9XdWZkL0p4a3FaNTA3NlJCd21zalJ0UDNRNXl3YTVPazhrbHBNejlCQnhJb1o2OU1tbHViNndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTUxMzY2CWZpbGU6TWFya05vdGUuYXBwLnRhci5negpyTyt2MXk3eUdjMkRLR2RjcXNHaGkxOEFUbEdKYTEzSmJYV1AvY0FORXpyNHAvNWQ2S1ZoVThOUmtLTS8rWElSeHRWYXd3Nzk1ZW1wV3hxQWRKZGhEdz09Cg==",
+      "url": "https://github.com/springwarm/marknote-updates/releases/download/v0.1.64/MarkNote-0.1.64-darwin-aarch64.app.tar.gz"
     }
   },
   "downloads": {
@@ -15,6 +19,11 @@
       "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.64/MarkNote-0.1.64-android-universal.apk",
       "label": "Android",
       "format": "apk"
+    },
+    "darwin-aarch64": {
+      "url": "https://github.com/springwarm/marknote-updates/releases/download/v0.1.64/MarkNote-0.1.64-darwin-aarch64.dmg",
+      "label": "macOS (Apple Silicon)",
+      "format": "dmg"
     }
   }
 }
