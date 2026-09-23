@@ -1,29 +1,20 @@
 {
-  "version": "0.1.61",
-  "notes": "v0.1.61 URL scrape fingerprint, steward question URLs, reject skeletons",
-  "pub_date": "2026-09-22T18:15:24.392Z",
+  "version": "0.1.62",
+  "notes": "v0.1.62 fix mobile URL allowlist for glued CJK and share queries",
+  "pub_date": "2026-09-23T03:35:08.342Z",
   "mandatory": false,
   "rolloutPct": 100,
   "platforms": {
     "android-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMW4zV2JyOUV5cU9kVjB3SCtzdllCeDljQVJZUzFheWRnVUZRdnppU2hTcHNQeVREWWlndnJ1aWJTVjkwM3E1c1F2blFjSWxVeFJpbGUzVTF0a3BiQnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTAwNDMyCWZpbGU6TWFya05vdGUtMC4xLjYxLWFuZHJvaWQtdW5pdmVyc2FsLmFwawpCSGl6Q2pWRUxnbjFoc2trTDNmeWx3ZGt4NXNNVS9sYVRNcHR3WE9IZXZrKzF1RGtBUUdaZ29BcklGQW5vNmIybVRWc0pqUGhDbXh6bnVHUWhaSXpDZz09Cg==",
-      "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.61/MarkNote-0.1.61-android-universal.apk"
-    },
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMXN4VGliTW9nMzBYZlo3bklSckFZN0ppQ0NDd2tsQkhkWkZrRnRNUExndkdvc1BxWEY2cFg3UE5mRTY5TmRDcXhVVlZwZFcweEc4VjlRTGNCRHlwZFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTAwOTE4CWZpbGU6TWFya05vdGUuYXBwLnRhci5nego5OVp3Rld6RmpIb1FTQ2hFQXpkbXpyZXV4SUdYOXU5dmFoVVQrRTNPZ3lzL0RnL2tYY0h2M2dkY2l6eEQwd29jaStOY29sakEyM09zNEQ4ZzMyK2ZBdz09Cg==",
-      "url": "https://github.com/springwarm/marknote-updates/releases/download/v0.1.61/MarkNote-0.1.61-darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMWhrdHNna0ZGZ1haQkgzSVFLeGVyOUo0c0xMR3gxWGZyS1NEc3hLbmJ1akNvOFgveDB2VDcyenFEYVJFUTFzeHR1cHpjbGhvTTgwb1Jya0xXQ2tHVmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTM0NTAyCWZpbGU6TWFya05vdGUtMC4xLjYyLWFuZHJvaWQtdW5pdmVyc2FsLmFwawp1a3laR0RnTmxQLy9UWnlvd3BNYXBxRVFieFFKLzdjU2xxeXpIMjR5Sm1KcjNMK0F1SHVCczM4Wmd2Tm15MTR3ZFlxc0pGbENkZlBzYkxXbGIyaklCQT09Cg==",
+      "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.62/MarkNote-0.1.62-android-universal.apk"
     }
   },
   "downloads": {
     "android-universal": {
-      "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.61/MarkNote-0.1.61-android-universal.apk",
+      "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.62/MarkNote-0.1.62-android-universal.apk",
       "label": "Android",
       "format": "apk"
-    },
-    "darwin-aarch64": {
-      "url": "https://github.com/springwarm/marknote-updates/releases/download/v0.1.61/MarkNote-0.1.61-darwin-aarch64.dmg",
-      "label": "macOS (Apple Silicon)",
-      "format": "dmg"
     }
   }
 }
