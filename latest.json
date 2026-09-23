@@ -1,13 +1,17 @@
 {
   "version": "0.1.66",
   "notes": "修复手机长按粘贴；对话输入增加粘贴按钮。",
-  "pub_date": "2026-09-23T08:41:37.441Z",
+  "pub_date": "2026-09-23T08:53:00.190Z",
   "mandatory": false,
   "rolloutPct": 100,
   "platforms": {
     "android-universal": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMXZMbktxSDlZVFl2b2x3NVRwY1c0ZVNHRXNFc2hsK3Yxb0hRbVlqOERCWitWeURLZDhGRi9LVjQxeVZPcWo4dUxlUlBkUzRqamxXeC9iNkw3MXhVM2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTUyODkxCWZpbGU6TWFya05vdGUtMC4xLjY2LWFuZHJvaWQtdW5pdmVyc2FsLmFwawpQdUNEM0g2cUhqZDMxRS9Ka0hzUnVyaDhFLzRQTTJHNTMzVnNEd1ZlN1ErOEpORUx5T0JiYVRXTlpJT1ZMSTRtalRacnNjdmgzUmI2cGtyRGhYKzFCZz09Cg==",
       "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.66/MarkNote-0.1.66-android-universal.apk"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMXJWb3pxamREUkk3VHEvaDVGbHBJUmt4aEtqRnZhTERyZ1NxWVpMa290WjIydmwzb1hDdTNNYW9ncWRDWmdxcUNSaCtBWmpueVE0bmdkbDN2MDIyOFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTUyMzMyCWZpbGU6TWFya05vdGUuYXBwLnRhci5negpYcEE2ZFJiV2tzZ0JtMTVwNjMxTmZnSXVPL0x4bXV2Q0VtMlV5VDc0ZG5ZWVJIajBlY3A3cmxxM0JnRzUrdyt5TEdWSlliTTNTckRTbjlqK2pzeGVDUT09Cg==",
+      "url": "https://github.com/springwarm/marknote-updates/releases/download/v0.1.66/MarkNote-0.1.66-darwin-aarch64.app.tar.gz"
     }
   },
   "downloads": {
@@ -15,6 +19,11 @@
       "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.66/MarkNote-0.1.66-android-universal.apk",
       "label": "Android",
       "format": "apk"
+    },
+    "darwin-aarch64": {
+      "url": "https://github.com/springwarm/marknote-updates/releases/download/v0.1.66/MarkNote-0.1.66-darwin-aarch64.dmg",
+      "label": "macOS (Apple Silicon)",
+      "format": "dmg"
     }
   }
 }
