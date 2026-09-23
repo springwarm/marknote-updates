@@ -1,13 +1,17 @@
 {
   "version": "0.1.65",
   "notes": "修复对话粘贴丢字；手机打开网页与桌面同一套方式，微信链接更好抓。",
-  "pub_date": "2026-09-23T08:28:06.454Z",
+  "pub_date": "2026-09-23T08:32:18.817Z",
   "mandatory": false,
   "rolloutPct": 100,
   "platforms": {
     "android-universal": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMW8xQmJTR0lkOWMycU1DMTNHTUhvSVhZNWhvSlZ3Rm84eWRIUGRiT1pDUldtdFV6dWhBZUgzWDZEelFLZndHWThCbng4UDAxandvM0Nxa05xYnZqb3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTUyMDgwCWZpbGU6TWFya05vdGUtMC4xLjY1LWFuZHJvaWQtdW5pdmVyc2FsLmFwawpzaDViRStpZi9ZR2NIRHVCbEdubFMwaHovSFpXZUgzU1hZVVdsdkdRV2RuUFpSaTMvTVRTakY0QWVhaUh6Z0lRMU9DTklTZ2VONUptY0pNd1lzYzVEQT09Cg==",
       "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.65/MarkNote-0.1.65-android-universal.apk"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzVBTWxUQ1VWMXJWb3pxamREUkk3VHEvaDVGbHBJUmt4aEtqRnZhTERyZ1NxWVpMa290WjIydmwzb1hDdTNNYW9ncWRDWmdxcUNSaCtBWmpueVE0bmdkbDN2MDIyOFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTUyMzMyCWZpbGU6TWFya05vdGUuYXBwLnRhci5negpYcEE2ZFJiV2tzZ0JtMTVwNjMxTmZnSXVPL0x4bXV2Q0VtMlV5VDc0ZG5ZWVJIajBlY3A3cmxxM0JnRzUrdyt5TEdWSlliTTNTckRTbjlqK2pzeGVDUT09Cg==",
+      "url": "https://github.com/springwarm/marknote-updates/releases/download/v0.1.65/MarkNote-0.1.65-darwin-aarch64.app.tar.gz"
     }
   },
   "downloads": {
@@ -15,6 +19,11 @@
       "url": "https://gitee.com/windflytop/marknote-updates/releases/download/v0.1.65/MarkNote-0.1.65-android-universal.apk",
       "label": "Android",
       "format": "apk"
+    },
+    "darwin-aarch64": {
+      "url": "https://github.com/springwarm/marknote-updates/releases/download/v0.1.65/MarkNote-0.1.65-darwin-aarch64.dmg",
+      "label": "macOS (Apple Silicon)",
+      "format": "dmg"
     }
   }
 }
